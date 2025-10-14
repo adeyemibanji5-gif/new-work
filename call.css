@@ -1,0 +1,28 @@
+<style>
+	
+	P{
+		color: gray;
+		font-family: Venera;
+	}
+	
+
+	h1{
+		color:darkred;
+	}
+	body{
+		background-color: skyblue;
+		background-attachment: fixed;
+	}
+	a:hover {
+		color: gray;
+	}
+	th ,td{
+		color: darkred;
+		padding: 20px;
+		text-align: left;
+		border-bottom: 10px solid
+	}
+	tr:hover{
+		background-color: coral;
+	}
+	
